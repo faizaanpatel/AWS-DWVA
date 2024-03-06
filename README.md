@@ -27,7 +27,7 @@ In this project, I setup an EC2 Instance on AWS with an HTTP server running on p
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+<p align="left">
 First we will create an Amazon EC2 Instance with SSH and HTTP (Port 80) running: <br/>
 <img src="https://imgur.com/hKzlcnW.png" height="80%" width="80%" alt="set up"/>
 <br />
